@@ -1,0 +1,5 @@
+﻿<video tvshows>
+/ items = ("video1-10.mpg")
+/ playthrough = true
+/ position = (25, 25)
+</video>
